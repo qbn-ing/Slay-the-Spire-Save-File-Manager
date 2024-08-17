@@ -1,0 +1,4 @@
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\linux-x64\publish\SlaytheSpireSaveFileManager.pdb
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\linux-x64\publish\Newtonsoft.Json.pdb
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\linux-x64\publish\Newtonsoft.Json.xml
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\linux-x64\publish\SlaytheSpireSaveFileManager

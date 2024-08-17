@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="杀戮尖塔存档管理器" Height="600" Width="300"
+        ResizeMode="CanMinimize">
+    <Grid>
+        <Button Name="btn1" Content="开始备份存档" HorizontalAlignment="Center" Margin="0,51,0,0" VerticalAlignment="Top" Height="50" Width="120" Cursor="Hand" Click="btn1Click"/>
+        <Button Content="查看备份的存档" HorizontalAlignment="Center" Margin="0,137,0,0" VerticalAlignment="Top" Height="50" Width="120" Cursor="Hand" Click="btn2Click"/>
+        <Image Height="152" Margin="0,292,0,0" VerticalAlignment="Top" Width="120">
+            <Image.Source>
+                <BitmapImage UriSource="/img.jpg"/>
+            </Image.Source>
+        </Image>
+        <TextBlock HorizontalAlignment="Center" Height="45" Margin="0,433,0,0" TextWrapping="Wrap" Text="by远古分子复仇之魂" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Height="54" Margin="45,456,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="202">
+            参考链接:
+            <Hyperlink NavigateUri="https://blog.csdn.net/chouzhou9701/article/details/121235873" Click="Hyperlink_Click">写一个杀戮尖塔存档修改器</Hyperlink>
+            开源地址:
+            <Hyperlink NavigateUri="https://github.com/qbn-ing/Slay-the-Spire-Save-File-Manager/" Click="Hyperlink_Click2">Slay the Spire Save File Manager</Hyperlink>
+        </TextBlock>
+
+    </Grid>
+</Window>

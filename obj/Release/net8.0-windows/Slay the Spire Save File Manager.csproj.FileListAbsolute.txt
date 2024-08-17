@@ -1,0 +1,27 @@
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Slay the Spire Save File Manager.exe
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Slay the Spire Save File Manager.deps.json
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Slay the Spire Save File Manager.runtimeconfig.json
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Slay the Spire Save File Manager.dll
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Slay the Spire Save File Manager.pdb
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Newtonsoft.Json.pdb
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Release\net8.0-windows\Newtonsoft.Json.xml
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.csproj.AssemblyReference.cache
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\MainWindow.g.cs
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Window1.g.cs
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\App.g.cs
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager_MarkupCompile.cache
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager_MarkupCompile.lref
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\MainWindow.baml
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Window1.baml
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.g.resources
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.AssemblyInfoInputs.cache
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.AssemblyInfo.cs
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.csproj.CoreCompileInputs.cache
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.csproj.CopyComplete
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.dll
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\refint\Slay the Spire Save File Manager.dll
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.pdb
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\Slay the Spire Save File Manager.genruntimeconfig.cache
+D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\obj\Release\net8.0-windows\ref\Slay the Spire Save File Manager.dll

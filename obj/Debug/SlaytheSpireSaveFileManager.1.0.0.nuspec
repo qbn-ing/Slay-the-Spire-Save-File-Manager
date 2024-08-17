@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SlaytheSpireSaveFileManager</id>
+    <version>1.0.0</version>
+    <authors>SlaytheSpireSaveFileManager</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Debug\net8.0-windows\SlaytheSpireSaveFileManager.runtimeconfig.json" target="lib\net8.0-windows7.0\SlaytheSpireSaveFileManager.runtimeconfig.json" />
+    <file src="D:\Onedrive\work\OneDrive - qxbsupc\ugproject\test\WpfApp2\bin\Debug\net8.0-windows\SlaytheSpireSaveFileManager.dll" target="lib\net8.0-windows7.0\SlaytheSpireSaveFileManager.dll" />
+  </files>
+</package>

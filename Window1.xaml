@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfApp2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="存档查看" Height="450" Width="800"
+        ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid Name="savesdt" Height="310" VerticalAlignment="Top" Width="800" Grid.ColumnSpan="2" SelectionChanged="dt_select" MouseDoubleClick="btn3_click">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="昵称" Binding="{Binding Name,Mode=OneWay}" />
+                <DataGridTextColumn Header="职业" Binding="{Binding Job,Mode=OneWay}" />
+                <DataGridTextColumn Header="等级" Binding="{Binding Level,Mode=OneWay}" />
+                <DataGridTextColumn Header="层数" Binding="{Binding Floor,Mode=OneWay}" />
+                <DataGridTextColumn Header="当前血量" Binding="{Binding CurrentHealth,Mode=OneWay}" />
+                <DataGridTextColumn Header="最大血量" Binding="{Binding MaxHealth,Mode=OneWay}" />
+                <DataGridTextColumn Header="当前金币" Binding="{Binding Gold,Mode=OneWay}" />
+                <DataGridTextColumn Header="保存时间" Binding="{Binding Date,Mode=OneWay}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="打开存档文件夹" HorizontalAlignment="Left" Height="60" Margin="93,341,0,0" VerticalAlignment="Top" Width="160" Click="btn4_click"/>
+        <Button Content="替换为此存档" HorizontalAlignment="Left" Height="60" Margin="156,341,0,0" VerticalAlignment="Top" Width="160" Grid.Column="1" Click="btn3_click"/>
+        <Button Content="删除" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="60" Margin="313,341,0,0" VerticalAlignment="Top" Width="174" Click="btn5_click"/>
+
+    </Grid>
+</Window>
